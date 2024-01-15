@@ -6,9 +6,10 @@ authors = ["Edson <edandrade.code@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 django = "^5.0.1"
 selenium = "^4.16.0"
+
 
 
 [build-system]
